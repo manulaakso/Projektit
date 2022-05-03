@@ -1,0 +1,13 @@
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\bin\Debug\Studypoint_2.0.exe.config
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\bin\Debug\Studypoint_2.0.exe
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\bin\Debug\Studypoint_2.0.pdb
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.AssemblyReference.cache
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.StudypointFM.resources
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.Properties.Resources.resources
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.GenerateResource.cache
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.exe
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.pdb
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.KIRJAUDU.resources
+C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.Etusivu.resources
