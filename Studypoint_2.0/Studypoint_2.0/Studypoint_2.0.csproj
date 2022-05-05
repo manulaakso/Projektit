@@ -66,6 +66,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="OTAYHTEYTTA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OTAYHTEYTTA.Designer.cs">
+      <DependentUpon>OTAYHTEYTTA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KUVAGALLERIA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KUVAGALLERIA.Designer.cs">
+      <DependentUpon>KUVAGALLERIA.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Etusivu.resx">
       <DependentUpon>Etusivu.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +97,12 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="OTAYHTEYTTA.resx">
+      <DependentUpon>OTAYHTEYTTA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KUVAGALLERIA.resx">
+      <DependentUpon>KUVAGALLERIA.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -100,6 +118,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\technology-background-1632715.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-44.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2-42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4-41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8-29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13-20.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
