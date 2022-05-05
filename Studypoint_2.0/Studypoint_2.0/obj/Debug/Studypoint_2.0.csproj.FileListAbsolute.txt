@@ -11,7 +11,23 @@ C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj
 C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.pdb
 C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.KIRJAUDU.resources
 C:\Users\Katri\source\repot\projekti\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.Etusivu.resources
+<<<<<<< HEAD
 C:\Users\Katri\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.AssemblyReference.cache
 C:\Users\Katri\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.SuggestedBindingRedirects.cache
 C:\Users\Katri\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.exe
 C:\Users\Katri\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.pdb
+=======
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\bin\Debug\Studypoint_2.0.exe.config
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\bin\Debug\Studypoint_2.0.exe
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\bin\Debug\Studypoint_2.0.pdb
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.AssemblyReference.cache
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.Etusivu.resources
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.StudypointFM.resources
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.KIRJAUDU.resources
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2._0.Properties.Resources.resources
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.GenerateResource.cache
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.exe
+C:\Users\Okehittaja\source\repos\Projektit\Studypoint_2.0\Studypoint_2.0\obj\Debug\Studypoint_2.0.pdb
+>>>>>>> c33a0755bbcbe083986867ff105c6c503c219218
