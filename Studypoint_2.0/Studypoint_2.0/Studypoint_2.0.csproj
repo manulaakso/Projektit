@@ -64,8 +64,26 @@
     <Compile Include="KIRJAUDU.Designer.cs">
       <DependentUpon>KIRJAUDU.cs</DependentUpon>
     </Compile>
+    <Compile Include="ORGANISAATIOMME.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ORGANISAATIOMME.Designer.cs">
+      <DependentUpon>ORGANISAATIOMME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PALVELUMME.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PALVELUMME.Designer.cs">
+      <DependentUpon>PALVELUMME.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="REKISTEROIDY.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="REKISTEROIDY.designer.cs">
+      <DependentUpon>REKISTEROIDY.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Etusivu.resx">
       <DependentUpon>Etusivu.cs</DependentUpon>
     </EmbeddedResource>
@@ -74,6 +92,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="KIRJAUDU.resx">
       <DependentUpon>KIRJAUDU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ORGANISAATIOMME.resx">
+      <DependentUpon>ORGANISAATIOMME.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PALVELUMME.resx">
+      <DependentUpon>PALVELUMME.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -85,6 +109,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="REKISTEROIDY.resx">
+      <DependentUpon>REKISTEROIDY.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

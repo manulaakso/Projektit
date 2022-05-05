@@ -36,7 +36,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.RoyalBlue;
             this.label1.Font = new System.Drawing.Font("Calibri", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(144, 193);
+            this.label1.Location = new System.Drawing.Point(180, 214);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(991, 117);
             this.label1.TabIndex = 0;

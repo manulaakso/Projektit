@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(StudypointFM));
             this.NaviPL = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.MeistaBT = new System.Windows.Forms.Button();
             this.UuttaBT = new System.Windows.Forms.Button();
             this.OtayhteyttaBT = new System.Windows.Forms.Button();
@@ -38,17 +39,14 @@
             this.PanelPL = new System.Windows.Forms.Panel();
             this.etusivu1 = new Studypoint_2._0.Etusivu();
             this.kirjaudu1 = new Studypoint_2._0.KIRJAUDU();
-            this.EtuBTPL = new System.Windows.Forms.Panel();
-            this.Etusivu01BT = new System.Windows.Forms.Button();
             this.NaviPL.SuspendLayout();
             this.PanelPL.SuspendLayout();
-            this.EtuBTPL.SuspendLayout();
             this.SuspendLayout();
             // 
             // NaviPL
             // 
             this.NaviPL.BackColor = System.Drawing.Color.RoyalBlue;
-            this.NaviPL.Controls.Add(this.EtuBTPL);
+            this.NaviPL.Controls.Add(this.button1);
             this.NaviPL.Controls.Add(this.MeistaBT);
             this.NaviPL.Controls.Add(this.UuttaBT);
             this.NaviPL.Controls.Add(this.OtayhteyttaBT);
@@ -61,15 +59,28 @@
             this.NaviPL.Size = new System.Drawing.Size(1332, 71);
             this.NaviPL.TabIndex = 0;
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.RoyalBlue;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Location = new System.Drawing.Point(5, 6);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(145, 60);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "Etusivu";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
             // MeistaBT
             // 
             this.MeistaBT.BackColor = System.Drawing.Color.RoyalBlue;
             this.MeistaBT.FlatAppearance.BorderSize = 0;
             this.MeistaBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.MeistaBT.Location = new System.Drawing.Point(878, 5);
+            this.MeistaBT.Location = new System.Drawing.Point(780, 6);
             this.MeistaBT.Margin = new System.Windows.Forms.Padding(5);
             this.MeistaBT.Name = "MeistaBT";
-            this.MeistaBT.Size = new System.Drawing.Size(218, 60);
+            this.MeistaBT.Size = new System.Drawing.Size(145, 60);
             this.MeistaBT.TabIndex = 4;
             this.MeistaBT.Text = "Meistä";
             this.MeistaBT.UseVisualStyleBackColor = false;
@@ -80,10 +91,10 @@
             this.UuttaBT.BackColor = System.Drawing.Color.RoyalBlue;
             this.UuttaBT.FlatAppearance.BorderSize = 0;
             this.UuttaBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.UuttaBT.Location = new System.Drawing.Point(660, 5);
+            this.UuttaBT.Location = new System.Drawing.Point(625, 6);
             this.UuttaBT.Margin = new System.Windows.Forms.Padding(5);
             this.UuttaBT.Name = "UuttaBT";
-            this.UuttaBT.Size = new System.Drawing.Size(218, 60);
+            this.UuttaBT.Size = new System.Drawing.Size(145, 60);
             this.UuttaBT.TabIndex = 3;
             this.UuttaBT.Text = "Uutta";
             this.UuttaBT.UseVisualStyleBackColor = false;
@@ -94,10 +105,10 @@
             this.OtayhteyttaBT.BackColor = System.Drawing.Color.RoyalBlue;
             this.OtayhteyttaBT.FlatAppearance.BorderSize = 0;
             this.OtayhteyttaBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.OtayhteyttaBT.Location = new System.Drawing.Point(442, 5);
+            this.OtayhteyttaBT.Location = new System.Drawing.Point(470, 5);
             this.OtayhteyttaBT.Margin = new System.Windows.Forms.Padding(5);
             this.OtayhteyttaBT.Name = "OtayhteyttaBT";
-            this.OtayhteyttaBT.Size = new System.Drawing.Size(218, 60);
+            this.OtayhteyttaBT.Size = new System.Drawing.Size(145, 60);
             this.OtayhteyttaBT.TabIndex = 2;
             this.OtayhteyttaBT.Text = "Ota yhteyttä";
             this.OtayhteyttaBT.UseVisualStyleBackColor = false;
@@ -108,10 +119,10 @@
             this.RekisteroidyBT.BackColor = System.Drawing.Color.RoyalBlue;
             this.RekisteroidyBT.FlatAppearance.BorderSize = 0;
             this.RekisteroidyBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.RekisteroidyBT.Location = new System.Drawing.Point(223, 5);
+            this.RekisteroidyBT.Location = new System.Drawing.Point(315, 6);
             this.RekisteroidyBT.Margin = new System.Windows.Forms.Padding(5);
             this.RekisteroidyBT.Name = "RekisteroidyBT";
-            this.RekisteroidyBT.Size = new System.Drawing.Size(218, 60);
+            this.RekisteroidyBT.Size = new System.Drawing.Size(145, 60);
             this.RekisteroidyBT.TabIndex = 1;
             this.RekisteroidyBT.Text = "Rekisteröidy";
             this.RekisteroidyBT.UseVisualStyleBackColor = false;
@@ -122,10 +133,10 @@
             this.KirjauduBT.BackColor = System.Drawing.Color.RoyalBlue;
             this.KirjauduBT.FlatAppearance.BorderSize = 0;
             this.KirjauduBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.KirjauduBT.Location = new System.Drawing.Point(14, 6);
+            this.KirjauduBT.Location = new System.Drawing.Point(160, 5);
             this.KirjauduBT.Margin = new System.Windows.Forms.Padding(5);
             this.KirjauduBT.Name = "KirjauduBT";
-            this.KirjauduBT.Size = new System.Drawing.Size(218, 60);
+            this.KirjauduBT.Size = new System.Drawing.Size(145, 60);
             this.KirjauduBT.TabIndex = 0;
             this.KirjauduBT.Text = "Kirjaudu Sisään";
             this.KirjauduBT.UseVisualStyleBackColor = false;
@@ -150,7 +161,7 @@
             this.etusivu1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.etusivu1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.etusivu1.Location = new System.Drawing.Point(0, 0);
-            this.etusivu1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.etusivu1.Margin = new System.Windows.Forms.Padding(5);
             this.etusivu1.Name = "etusivu1";
             this.etusivu1.Size = new System.Drawing.Size(1332, 785);
             this.etusivu1.TabIndex = 0;
@@ -169,30 +180,6 @@
             this.kirjaudu1.Visible = false;
             this.kirjaudu1.Load += new System.EventHandler(this.kirjaudu1_Load);
             // 
-            // EtuBTPL
-            // 
-            this.EtuBTPL.Controls.Add(this.Etusivu01BT);
-            this.EtuBTPL.Location = new System.Drawing.Point(0, 0);
-            this.EtuBTPL.Name = "EtuBTPL";
-            this.EtuBTPL.Size = new System.Drawing.Size(218, 71);
-            this.EtuBTPL.TabIndex = 5;
-            this.EtuBTPL.Visible = false;
-            // 
-            // Etusivu01BT
-            // 
-            this.Etusivu01BT.BackColor = System.Drawing.Color.RoyalBlue;
-            this.Etusivu01BT.FlatAppearance.BorderSize = 0;
-            this.Etusivu01BT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Etusivu01BT.Location = new System.Drawing.Point(0, 5);
-            this.Etusivu01BT.Margin = new System.Windows.Forms.Padding(5);
-            this.Etusivu01BT.Name = "Etusivu01BT";
-            this.Etusivu01BT.Size = new System.Drawing.Size(218, 60);
-            this.Etusivu01BT.TabIndex = 2;
-            this.Etusivu01BT.Text = "Etusivu";
-            this.Etusivu01BT.UseVisualStyleBackColor = false;
-            this.Etusivu01BT.Visible = false;
-            this.Etusivu01BT.Click += new System.EventHandler(this.Etusivu01BT_Click);
-            // 
             // StudypointFM
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
@@ -207,7 +194,6 @@
             this.Text = "Studypoint";
             this.NaviPL.ResumeLayout(false);
             this.PanelPL.ResumeLayout(false);
-            this.EtuBTPL.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -223,8 +209,7 @@
         private System.Windows.Forms.Panel PanelPL;
         private KIRJAUDU kirjaudu1;
         private Etusivu etusivu1;
-        private System.Windows.Forms.Panel EtuBTPL;
-        private System.Windows.Forms.Button Etusivu01BT;
+        private System.Windows.Forms.Button button1;
     }
 }
 

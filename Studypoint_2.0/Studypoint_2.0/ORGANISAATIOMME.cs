@@ -10,21 +10,14 @@ using System.Windows.Forms;
 
 namespace Studypoint_2._0
 {
-    public partial class KIRJAUDU : UserControl
+    public partial class ORGANISAATIOMME : UserControl
     {
-        Etusivu etusivu = new Etusivu();
-        public KIRJAUDU()
+        public ORGANISAATIOMME()
         {
             InitializeComponent();
         }
 
-        private void EtusivuBT01_Click(object sender, EventArgs e)
-        {
-            
-            
-        }
-
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
